@@ -1,6 +1,6 @@
 # GeminAi English Trainer
 Welcome to our cutting-edge app designed to prepare you for English proficiency exams like never before. 
-<a href="https://responsible-halimeda-geminaienglishtrainer-2680bdd6.koyeb.app">https://geminaienglishtrainer.app</a>
+<a href="https://responsible-halimeda-geminaienglishtrainer-2680bdd6.koyeb.app">geminaienglishtrainer.app</a>
 
 <img src="https://github.com/lucasrigobello/GeminAi_English_Trainer/blob/2f1ac8074a47a4d2e52fa3f66195d39a2de527ac/GeminAiEnglishTrainer.png?raw=true" width="450">
 
